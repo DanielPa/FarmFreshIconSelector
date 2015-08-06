@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmFreshIconSelector", "FarmFreshIconSelector\FarmFreshIconSelector.csproj", "{A1A1FEF2-EEC1-4F17-AF75-59A473355EEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1C7F2D58-5ED7-4772-B57C-8CE02287F8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A1FEF2-EEC1-4F17-AF75-59A473355EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A1FEF2-EEC1-4F17-AF75-59A473355EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A1FEF2-EEC1-4F17-AF75-59A473355EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A1FEF2-EEC1-4F17-AF75-59A473355EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7F2D58-5ED7-4772-B57C-8CE02287F8AD}.Debug|Any CPU.ActiveCfg = Debug
+		{1C7F2D58-5ED7-4772-B57C-8CE02287F8AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
