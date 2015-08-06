@@ -1,0 +1,12 @@
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\bin\Release\FarmFreshIconSelector.exe.config
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\bin\Release\FarmFreshIconSelector.exe
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\bin\Release\FarmFreshIconSelector.pdb
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\bin\Release\Z.IconLibrary.FarmFresh.dll
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\bin\Release\Z.IconLibrary.FarmFresh.pdb
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.AboutBox.resources
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.MainForm.resources
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.Properties.Resources.resources
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.csproj.GenerateResource.Cache
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.exe
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.pdb
+E:\Dokumente\Visual Studio 2013\Projects\FarmFreshIconSelector\FarmFreshIconSelector\obj\Release\FarmFreshIconSelector.csprojResolveAssemblyReference.cache
